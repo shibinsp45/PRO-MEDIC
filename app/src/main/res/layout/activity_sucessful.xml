@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:orientation="vertical"
+android:gravity="center"
+android:background="@drawable/background"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:padding="15dp"
+tools:context=".Sucessful">
+
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="180dp"
+        app:srcCompat="@drawable/tick" />
+
+    <TextView
+        android:id="@+id/loginNow"
+        android:layout_width="713dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Payment Sucessful"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="713dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:text="Collect your medicine from the machine"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="420dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="#4A148C"
+        android:text="BACK TO MAIN PAGE"
+        android:textColor="@color/white"
+        android:textStyle="normal" />
+
+
+</LinearLayout>
+
+

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399735729361",
+    "project_id": "pro-medic-3db93",
+    "storage_bucket": "pro-medic-3db93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399735729361:android:67ffb25dc5e5ec6dd969f0",
+        "android_client_info": {
+          "package_name": "com.example.medicalvending"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399735729361-gdc63eo94o0bq4gt73chftvgh0he968c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1W4mZTisXYJrmmeupRw73CNfbwAnRWG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399735729361-gdc63eo94o0bq4gt73chftvgh0he968c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

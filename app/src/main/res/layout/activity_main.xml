@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:background="@drawable/background"
+    android:layout_height="fill_parent">
+
+    <ImageView
+        android:layout_width="156dp"
+        android:layout_height="144dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp"
+        app:srcCompat="@drawable/select" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:text="Select Your Medicine"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:id="@+id/paracetamol"
+        android:text="Paracetamol" />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:id="@+id/aspirin"
+        android:textSize="25dp"
+        android:text="Aspirin"/>
+    <TextView
+        android:layout_marginTop="30dp"
+        android:visibility="gone"
+        android:textSize="30dp"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/amount"
+        android:text="Total Amount = "/>
+    <TextView
+        android:layout_marginTop="30dp"
+        android:textSize="28dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Available Stock"/>
+    <TextView
+        android:textSize="25dp"
+        android:gravity="center"
+        android:visibility="gone"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/paracetamolstock"
+        android:text="Paracetamol = "/>
+
+    <TextView
+        android:textSize="25dp"
+        android:gravity="center"
+        android:visibility="gone"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/aspirinstock"
+        android:text="Aspirin = " />
+
+    <view
+        android:id="@+id/view"
+        class="androidx.cardview.widget.CardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_marginTop="50dp"
+        android:id="@+id/purchase"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="#0091EA"
+        android:textColor="@color/white"
+        android:text="Purchase" />
+
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="137dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="#4A148C"
+        android:text="BACK TO MAIN PAGE"
+        android:textColor="@color/white"
+        android:textStyle="normal" />
+</LinearLayout>
