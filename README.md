@@ -4,6 +4,8 @@ Pro-Medic is a project aimed at constructing a smart medicine vending machine  s
 
 App link:https://github.com/shibinsp45/PRO-MEDIC/blob/master/PRO-MEDIC.apk
 
+Application working with hardware demonstration:https://drive.google.com/file/d/1OPFN_JB3UrwFyQXb7BArUOaIIA7jdNji/view?usp=share_link
+
 ## Features
 
 1. **Time-saving:** The Pro-Medic system automates the process of medicine dispensing, eliminating the need for manual intervention. Users can quickly and easily access the required medication without waiting in long queues.
