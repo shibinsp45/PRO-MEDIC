@@ -7,6 +7,19 @@
     android:background="@drawable/background"
     android:layout_height="fill_parent">
 
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="#4A148C"
+        android:text="LOGOUT"
+        android:drawableLeft="@drawable/baseline_logout_24"
+        android:textColor="@color/white"
+        android:textStyle="normal"
+        app:cornerRadius="20dp"/>
+
     <ImageView
         android:layout_width="156dp"
         android:layout_height="144dp"
@@ -89,17 +102,7 @@
         android:layout_gravity="center"
         android:backgroundTint="#0091EA"
         android:textColor="@color/white"
-        android:text="Purchase" />
+        android:text="Purchase"
+        app:cornerRadius="20dp"/>
 
-
-    <Button
-        android:id="@+id/logout"
-        android:layout_width="137dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="30dp"
-        android:backgroundTint="#4A148C"
-        android:text="BACK TO MAIN PAGE"
-        android:textColor="@color/white"
-        android:textStyle="normal" />
 </LinearLayout>

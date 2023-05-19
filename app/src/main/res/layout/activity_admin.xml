@@ -31,6 +31,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="10dp"
+            android:backgroundTint="#30ffffff"
             android:inputType="textEmailAddress"
             android:textColor="@color/gray_600" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -40,6 +41,7 @@
         android:textSize="25dp"
         android:textColor="@color/white"
         android:text="Stock of Aspirin:"/>
+
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
@@ -51,7 +53,8 @@
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
             android:inputType="textEmailAddress"
-            android:textColor="@color/gray_600" />
+            android:textColor="@color/gray_600"
+            android:backgroundTint="#30ffffff"/>
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button
@@ -62,7 +65,9 @@
         android:layout_gravity="center"
         android:backgroundTint="#0091EA"
         android:text="Update"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        app:cornerRadius="20dp"
+        />
     <Button
         android:layout_marginTop="40dp"
         android:id="@+id/logout"
@@ -71,5 +76,7 @@
         android:layout_gravity="center"
         android:backgroundTint="#4A148C"
         android:textColor="@color/white"
-        android:text="back to login page " />
+        android:text="HOME"
+        android:drawableLeft="@drawable/home"
+        app:cornerRadius="20dp"/>
 </LinearLayout>

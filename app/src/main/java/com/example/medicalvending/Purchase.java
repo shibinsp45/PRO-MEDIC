@@ -49,7 +49,7 @@ public class Purchase extends AppCompatActivity implements PaymentResultListener
             @Override
             public void onClick(View v) {
                 FirebaseAuth.getInstance().signOut();
-                Intent intent = new Intent(getApplicationContext(), Login.class);
+                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
                 startActivity(intent);
                 finish();
             }

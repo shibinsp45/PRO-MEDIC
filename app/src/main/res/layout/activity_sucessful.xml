@@ -38,14 +38,16 @@ tools:context=".Sucessful">
 
     <Button
         android:id="@+id/logout"
-        android:layout_width="234dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
         android:backgroundTint="#4A148C"
-        android:text="BACK TO MAIN PAGE"
+        android:text="HOME"
+        android:drawableLeft="@drawable/home"
         android:textColor="@color/white"
-        android:textStyle="normal" />
+        android:textStyle="normal"
+        app:cornerRadius="20dp"/>
 
 
 </LinearLayout>
