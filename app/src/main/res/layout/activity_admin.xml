@@ -30,8 +30,7 @@
             android:layout_width="411dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
-
-            android:layout_marginRight="5dp"
+            android:layout_marginRight="10dp"
             android:inputType="textEmailAddress"
             android:textColor="@color/gray_600" />
     </com.google.android.material.textfield.TextInputLayout>
