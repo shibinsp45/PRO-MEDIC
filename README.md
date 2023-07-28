@@ -35,3 +35,8 @@ To set up and run the Pro-Medic system, follow these steps:
 6. Build and run the Android application on your smartphone, ensuring that it is connected to the same network as the ESP32 device.
 
 7. You are now ready to use the Pro-Medic system! Explore the medication catalog, select the desired medicine, and make cashless payments through the Android application.
+
+### Screenshots
+![image](https://github.com/shibinsp45/PRO-MEDIC/assets/63835182/1d83cbd9-b460-492a-a471-db87fff75f2f)
+
+
