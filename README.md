@@ -2,9 +2,7 @@
 
 Pro-Medic is a project aimed at constructing a smart medicine vending machine  system that is designed to be time-saving and user-friendly. The system allows for cashless payments through digital payment methods by utilizing an Android application on smartphones. The project utilizes ESP32 hardware and leverages the Google Firebase software for data management and communication.
 
-App link:https://github.com/shibinsp45/PRO-MEDIC/blob/master/PRO-MEDIC.apk
 
-Application working with hardware demonstration (Dummy payment is used):https://drive.google.com/file/d/1OPFN_JB3UrwFyQXb7BArUOaIIA7jdNji/view?usp=share_link
 
 ## Features
 
@@ -37,6 +35,27 @@ To set up and run the Pro-Medic system, follow these steps:
 7. You are now ready to use the Pro-Medic system! Explore the medication catalog, select the desired medicine, and make cashless payments through the Android application.
 
 ### Screenshots
-![image](https://github.com/shibinsp45/PRO-MEDIC/assets/63835182/1d83cbd9-b460-492a-a471-db87fff75f2f)
+
+### Onboarding page ,Login and Register page
+![image](https://github.com/shibinsp45/PRO-MEDIC/assets/63835182/18efc835-2b07-4b49-9e90-627bd10e3712)
+### Live stock update by admin and page for selecting the available medicine
+![image](https://github.com/shibinsp45/PRO-MEDIC/assets/63835182/6e83a5c2-b41c-40d3-aff6-3d654f949173)
+### Redirecting to payment gateway using razorpay and can pay through UPI payment methods and payment confirmation page
+![image](https://github.com/shibinsp45/PRO-MEDIC/assets/63835182/dc28f3a2-0da2-4002-87ac-dbb44283a7c1)
+### Prototype model of Hardware
+![image](https://github.com/shibinsp45/PRO-MEDIC/assets/63835182/2f3a1a9c-9bc3-4d7e-ba77-aff87d895b1c)
+
+### App link:
+https://github.com/shibinsp45/PRO-MEDIC/blob/master/PRO-MEDIC.apk
+
+### Application working with hardware demonstration (Dummy payment is used):
+https://drive.google.com/file/d/1OPFN_JB3UrwFyQXb7BArUOaIIA7jdNji/view?usp=share_link
+
+### Firebase link:
+https://console.firebase.google.com/u/1/project/pro-medic-3db93/overview
+
+
+
+
 
 
