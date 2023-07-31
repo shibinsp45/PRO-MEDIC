@@ -46,11 +46,9 @@ To set up and run the Pro-Medic system, follow these steps:
 ![image](https://github.com/shibinsp45/PRO-MEDIC/assets/63835182/2f3a1a9c-9bc3-4d7e-ba77-aff87d895b1c)
 
 ### App link:
-https://github.com/shibinsp45/PRO-MEDIC/blob/master/PRO-MEDIC.apk
-
+http://lnkiy.in/promedic
 ### Application working with hardware demonstration (Dummy payment is used):
-https://drive.google.com/file/d/1OPFN_JB3UrwFyQXb7BArUOaIIA7jdNji/view?usp=share_link
-
+http://lnkiy.in/workingdemo
 ### Firebase link:
 https://console.firebase.google.com/u/1/project/pro-medic-3db93/overview
 
