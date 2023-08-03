@@ -6,6 +6,13 @@ Android Application Based Smart Medicine Vending Machine for Organisations
 Pro-Medic is a project aimed at constructing a smart medicine vending machine  system that is designed to be time-saving and user-friendly. The system allows for cashless payments through digital payment methods by utilizing an Android application on smartphones. The project utilizes ESP32 hardware and leverages the Google Firebase software for data management and communication.
 
 
+### App link:
+http://lnkiy.in/promedic
+### Application working with hardware demonstration (Dummy payment is used):
+http://lnkiy.in/workingdemo
+### Firebase link:
+https://console.firebase.google.com/u/1/project/pro-medic-3db93/overview
+
 
 ## Features
 
@@ -48,12 +55,7 @@ To set up and run the Pro-Medic system, follow these steps:
 ### Prototype model of Hardware
 ![image](https://github.com/shibinsp45/PRO-MEDIC/assets/63835182/2f3a1a9c-9bc3-4d7e-ba77-aff87d895b1c)
 
-### App link:
-http://lnkiy.in/promedic
-### Application working with hardware demonstration (Dummy payment is used):
-http://lnkiy.in/workingdemo
-### Firebase link:
-https://console.firebase.google.com/u/1/project/pro-medic-3db93/overview
+
 
 
 
