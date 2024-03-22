@@ -1,5 +1,5 @@
 # 💊 PRO-MEDIC 
-## 📱Android Application Based Smart Medicine Vending Machine for Organisations
+## 📱An Android Application Based Smart Medicine Vending Machine for Organisations
 
 Pro-Medic is a project aimed at constructing a smart medicine vending machine  system that is designed to be time-saving and user-friendly. The system allows for cashless payments through digital payment methods by utilizing an Android application on smartphones. The project utilizes ESP32 hardware and leverages the Google Firebase software for data management and communication.
 
