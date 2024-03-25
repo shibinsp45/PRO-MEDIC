@@ -5,12 +5,13 @@ Pro-Medic is a project aimed at constructing a smart medicine vending machine  s
 
 
 ### App link:
-http://lnkiy.in/promedic
+[Link](http://lnkiy.in/promedic)
 ### Application working with hardware demonstration (Dummy payment is used):
-http://lnkiy.in/workingdemo
+[Demo](http://lnkiy.in/workingdemo)
 ### Firebase link:
-https://console.firebase.google.com/u/1/project/pro-medic-3db93/overview
-
+[Firebase](https://console.firebase.google.com/u/1/project/pro-medic-3db93/overview)
+### Report Link: 
+[Project Report](https://drive.google.com/file/d/1TaqHwtn5icS6hUu10Izu3nbj1gQFprIm/view?usp=drive_link)
 
 ## Features
 
