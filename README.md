@@ -3,6 +3,8 @@
 
 Pro-Medic is a project aimed at constructing a smart medicine vending machine  system that is designed to be time-saving and user-friendly. The system allows for cashless payments through digital payment methods by utilizing an Android application on smartphones. The project utilizes ESP32 hardware and leverages the Google Firebase software for data management and communication.
 
+### Onboarding page ,Login and Register page
+![image](https://github.com/shibinsp45/PRO-MEDIC/assets/63835182/18efc835-2b07-4b49-9e90-627bd10e3712)
 
 ### App link:
 [Link](http://lnkiy.in/promedic)
@@ -45,8 +47,7 @@ To set up and run the Pro-Medic system, follow these steps:
 
 ### Screenshots
 
-### Onboarding page ,Login and Register page
-![image](https://github.com/shibinsp45/PRO-MEDIC/assets/63835182/18efc835-2b07-4b49-9e90-627bd10e3712)
+
 ### Live stock update by admin and page for selecting the available medicine
 ![image](https://github.com/shibinsp45/PRO-MEDIC/assets/63835182/6e83a5c2-b41c-40d3-aff6-3d654f949173)
 ### Redirecting to payment gateway using razorpay and can pay through UPI payment methods and payment confirmation page
